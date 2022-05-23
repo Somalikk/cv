@@ -1,0 +1,348 @@
+.butter{
+       padding: 100px;
+       padding-bottom:50px;
+       background-image:url("mojis.jpeg");
+				width:800px;
+				height:500px;
+				
+				text-align: center;
+				
+				
+}
+body {
+      background-color:#FAF1E6;
+				margin: 0px;
+}
+h1{
+				margin-top:0;
+				font-size:90px;
+				padding-top:50px;
+				
+}
+.cin{
+				font-size:60px;
+				color:#362222;
+}
+h2{
+				margin: 0;
+				padding-bottom:50px;
+				font-family: 'Sacramento', cursive;
+}
+.pic{
+				width: 150px;
+				
+}
+.dod{
+				width:375px;
+				border-radius:150%;
+				height:350px;
+				position:relative;
+				right:310px;
+				bottom:350px;
+}
+.cam{
+				background-color:#ECA6A6;
+				width:300px;
+				border-radius:150%;
+				height:300px;
+				position:relative;
+				left:180px; 
+			
+}
+.ash{
+				width:200px;
+				border-radius:150%;
+				height:200px;
+				position:relative;
+				left:67px; 
+}
+.tape{
+width:100px;
+				border-radius:150%;
+				height:100px;
+				position:relative;
+				left:360px; 
+				
+				
+}
+.cv{
+				background-color: white;
+				margin:0;
+				width:102%;
+}
+.first{
+				margin:0 auto 0 auto;
+				border:dotted;
+				border-bottom:none;
+				border-color:;
+				border-width:20px;
+				width:50px;
+				text-align:center;
+				color:#C89595;
+}
+.second{
+				margin:0 auto 0 auto;
+				border:dotted;
+				border-bottom:none;
+				border-color:;
+				border-width:20px;
+				width:50px;
+				text-align:center;
+				color:#C89595;
+}
+. profile{
+				text-align: center;
+}
+.hel{
+			margin-top:30;
+			position:relative;
+			top:100px;
+			font-size:50px;
+}
+.somto{
+				color:#865858;
+}
+.idea{
+				font-weight:bolder;
+				font-size:30px;
+}
+.weird{
+				font-size:50px;
+				font-family: 'Indie Flower', cursive;
+}
+.name{
+				font-size:50px;
+			font-family: 'Gelasio', serif;
+}
+.edit{
+				width:200px;
+				float:right;
+				text-align:center;
+				
+}
+.skill{
+       width:750px;
+       height:60%;
+       position: relative;
+       left:250px;
+       margin-top:50px;
+				
+}
+.vid{
+				text-align:center;
+				font-size:200%;
+}
+.talk{
+				line-height:2;
+				text-align:left;
+				font-size:150%;
+				padding-bottom:100px;
+				
+}
+.tailor{
+				border-radius:100%;
+				width:350px;
+				height:300px;
+				float:left;
+}
+.skill-row{
+				margin-top:100px;
+				width:900px;
+				position:relative;
+				line-height:2;
+				padding-top:50px;
+}
+.my{
+				text-align: center;
+				font-size:400%;
+				color:#442727;
+				margin-top:50px;
+}
+.with{
+				font-size:150%;
+				line-height:2;
+				position:relative;
+			 	left:40px;
+			 	padding-bottom:100px;
+}
+.intro{
+				font-size:200%;
+				padding-top:10px;
+				position:relative;
+				left:100px;
+				text-align:left;
+}
+.han{
+				width:100%;
+}
+.hand{
+				border-radius:35%;
+				width:400px;
+				margin-top:150px;
+				float:right;
+}
+.book{
+     border-radius:100%;
+     width:350px;
+     height:300px;
+     float:right;
+
+				  
+}
+.story{
+				padding-top:250px;
+				text-align: center;
+				font-size:200%;
+}
+.long{
+				font-size:150%;
+				clear:right;
+				line-height:2;
+				
+}
+.list{
+				font-size:150%;
+				line-height:2;
+				padding-top:70px;
+				margin:auto auto auto auto;
+}
+.new{
+				width:900px;
+				position: relative;
+				left:100px;
+}
+.till{
+				clear:right;
+				font-size:150%;
+				text-align:right;
+				font-weight:bold;
+				padding-bottom:100px;
+}
+.web{
+				padding-top:150px;
+				width:900px;
+}
+.css{
+				border-radius:100%;
+				width:350px;
+				height: 290px;
+				float:left;
+}
+.dev{
+				font-size:200%;
+				padding-top:20px;
+				text-align:center;
+				position:relative;
+				left:0px;
+}
+.turn{
+				font-size:150%;
+				line-height:2;
+				position:relative;
+				left:80px;
+}
+.tec{
+				font-size:400%;
+				clear:left;
+				padding-top:100px;
+				position:relative;
+				left:80px;
+				width:500px;
+				color:#968C83;
+}
+.tab{
+				font-size:150%;
+				position:relative;
+				left:80px;
+				bottom:30px;
+				padding-bottom:100px;
+}
+.pad{
+				width:200px;
+				
+}
+.tou{
+			font-family: 'Gelasio', serif;
+				font-size:300%;
+				text-align:center;
+				color:#87A7B3;
+				padding-bottom:0;
+}
+.lore{
+				font-size:350%;
+				padding-top:0;
+				width:600px;
+				position:relative;
+				left:200px;
+				font-family: 'Dancing Script', cursive;
+				text-align:center;
+				line-height:2;
+				font-weight:lighter;
+}
+.lorem{
+				font-size:200%;
+				color:#766161;
+				font-weight:bold;
+				text-align:center;
+				padding-bottom:50px;
+}
+.btn{ background: #C89595; background-image: -webkit-linear-gradient(top, #C89595, #FDE8CD); background-image: -moz-linear-gradient(top, #C89595, #FDE8CD); background-image: -ms-linear-gradient(top, #C89595, #FDE8CD); background-image: -o-linear-gradient(top, #C89595, #FDE8CD); background-image: linear-gradient(to bottom, #C89595, #FDE8CD); -webkit-border-radius: 50; -moz-border-radius: 50; border-radius: 50px; font-family: Courier New; color: #433520; font-size: 20px; padding: 10px 20px 10px 20px; text-decoration: none; 
+
+} 
+.btn:hover { background: #CDC7BE; background-image: -webkit-linear-gradient(top, #CDC7BE, #E1F1DD); background-image: -moz-linear-gradient(top, #CDC7BE, #E1F1DD); background-image: -ms-linear-gradient(top, #CDC7BE, #E1F1DD); background-image: -o-linear-gradient(top, #CDC7BE, #E1F1DD); background-image: linear-gradient(to bottom, #CDC7BE, #E1F1DD); text-decoration: none; 
+}
+.final{
+				font-size:200%;
+				line-height:2;
+				font-family: 'Gelasio', serif;
+}
+.can{
+				font-size:300%;
+				font-family: 'Pacifico', cursive;
+				padding-top:50px;
+}
+.bot{
+				background-color:#886F6F;
+				padding-top:100px;
+				height:50px;
+				margin-top:50px;
+				width:1000px;
+				border-radius:7%;
+				text-align:center ;
+				
+}
+.inp{
+				font-size:150%;
+				font-family: 'Indie Flower', cursive;
+				font-weight:bold;
+				
+}
+.footer-link{
+font-size:100%;
+ position:relative;
+	bottom:50px;
+	font-family: 'Gelasio', serif;
+	margin:10px 20px;
+	font-weight:bold;
+	color:#F3C5C5;
+	text-decoration:none;
+}
+.footer-link:hover{
+				color:#87A7B3;
+}
+.copy{
+			position:relative;
+	bottom:50px;
+}
+.copy{
+				font-size:100%;
+				color:#D1D1D1;
+}
+.in{
+				font-size:100%;
+				font-family: 'Gelasio', serif;
+				font-weight:bold;
+	color:#7882A4;
+	text-decoration:none;
+				
+}
